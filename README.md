@@ -7,7 +7,7 @@ My name is Himel Mallick. I am a computational biologist currently working at Me
 
 As background, I am a Julia enthusiast, a Python explorer, and an R developer. Mostly, I develop computational methods and open-source software for the analysis of high-dimensional data, including high-throughput next-generation sequencing data. 
 
-For more information, please visit my website at [himelmallick.org](http://himelmallick.org) and feel free to get in touch on [![GitHub][1.1]][1], [![Twitter][1.2]][2], or on [![LinkedIn][1.3]][3].
+For more information, please visit my website at [himelmallick.org](http://himelmallick.org) and feel free to get in touch on [![Twitter][1.1]][1] or on [![LinkedIn][1.2]][2].
 
 ## &#x270d; Blog & Writing
 
@@ -22,14 +22,12 @@ I am an occasional blog writer and you can find my blog articles on my website a
 
 <!-- Icons -->
 
-[1.1]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1.3]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- Links to your social media accounts -->
 
-[1]: https://github.com/himelmallick/
-[2]: https://twitter.com/Mallick_Himel
-[3]: https://www.linkedin.com/in/mallickhimel/
+[1]: https://twitter.com/Mallick_Himel
+[2]: https://www.linkedin.com/in/mallickhimel/
 
