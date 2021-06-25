@@ -1,16 +1,28 @@
-### Hi there 👋
+<!-- All credit to https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 for the awesome tutorial -->
 
-<!--
-**himelmallick/himelmallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Himel Mallick. I am a computational biologist currently working at Merck Research Laboratoriees. I am an extended lab member of the [bioBakery software development team](https://huttenhower.sph.harvard.edu/) at the Harvard Chan School and the Broad Institute. 
+
+As background, I am a Julia Enthusiast, a Python Explorer, and an R developer. Mostly, I develop computational methods and open-source software for the analysis of high-dimensional data, including high-throughput next-generation sequencing data. 
+
+For more information, please visit my website at [himelmallick.org](http://himelmallick.org) and feel free to get in touch on [![GitHub][1.1]][1], [![Twitter][1.2]][2], or on [![LinkedIn][1.3]][3].
+
+## &#x270d; Blog & Writing
+
+I am an occasional blog writer and you can find my blog articles on my website at [himelmallick.org](http://himelmallick.org). I am also engaged in publishing papers in peer-reviewed journals. A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=twbXG-wAAAAJ&hl=en).
+
+<!-- Icons -->
+
+[1.1]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.3]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- Links to your social media accounts -->
+
+[1]: https://github.com/himelmallick/
+[2]: https://twitter.com/Mallick_Himel
+[3]: https://www.linkedin.com/in/mallickhimel/
+
