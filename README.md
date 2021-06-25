@@ -13,12 +13,6 @@ For more information, please visit my website at [himelmallick.org](http://himel
 
 I am an occasional blog writer and you can find my blog articles on my website at [himelmallick.org](http://himelmallick.org/post). I am also engaged in publishing papers in peer-reviewed journals. A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=twbXG-wAAAAJ&hl=en).
 
-<!-- https://github.com/anuraghazra/github-readme-stats  -->
-
-## &#x1f4c8; GitHub Stats
-
-![Himel's GitHub stats](https://github-readme-stats.vercel.app/api?username=himelmallick&show_icons=true&theme=radical&hide=prs)
-
 <!-- Icons -->
 
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -29,4 +23,3 @@ I am an occasional blog writer and you can find my blog articles on my website a
 
 [1]: https://twitter.com/Mallick_Himel
 [2]: https://www.linkedin.com/in/mallickhimel/
-
