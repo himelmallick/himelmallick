@@ -5,7 +5,7 @@
 
 My name is Himel Mallick. I am a computational biologist currently working at Merck Research Laboratoriees. I am an extended lab member of the [bioBakery software development team](https://huttenhower.sph.harvard.edu/) at the Harvard Chan School and the Broad Institute. 
 
-As background, I am a Julia Enthusiast, a Python Explorer, and an R developer. Mostly, I develop computational methods and open-source software for the analysis of high-dimensional data, including high-throughput next-generation sequencing data. 
+As background, I am a Julia enthusiast, a Python explorer, and an R developer. Mostly, I develop computational methods and open-source software for the analysis of high-dimensional data, including high-throughput next-generation sequencing data. 
 
 For more information, please visit my website at [himelmallick.org](http://himelmallick.org) and feel free to get in touch on [![GitHub][1.1]][1], [![Twitter][1.2]][2], or on [![LinkedIn][1.3]][3].
 
