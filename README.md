@@ -9,9 +9,9 @@ As background, I am a Julia enthusiast, a Python explorer, and an R developer. M
 
 For more information, please visit my website at [himelmallick.org](http://himelmallick.org) and feel free to get in touch on [![GitHub][1.1]][1], [![Twitter][1.2]][2], or on [![LinkedIn][1.3]][3].
 
-## &#x270d; Articles
+## &#x270d; Blog & Writing
 
-I am an occasional blog writer and you can find my blog articles on my website at [himelmallick.org](http://himelmallick.org). I am also engaged in publishing papers in peer-reviewed journals. A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=twbXG-wAAAAJ&hl=en).
+I am an occasional blog writer and you can find my blog articles on my website at [himelmallick.org](http://himelmallick.org/post). I am also engaged in publishing papers in peer-reviewed journals. A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=twbXG-wAAAAJ&hl=en).
 
 <!-- Icons -->
 
