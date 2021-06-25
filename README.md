@@ -17,6 +17,16 @@ I am an occasional blog writer and you can find my blog articles on my website a
 
 ![Himel's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=himelmallick&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
+## Notable Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biobakery&repo=maaslin2&show_owner=true)](https://github.com/biobakery/maaslin2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biobakery&repo=melonnpan&show_owner=true)](https://github.com/biobakery/melonnpan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=tweedieverse&show_owner=true)](https://github.com/himelmallick/tweedieverse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=BenchmarkMicrobiome&show_owner=true)](https://github.com/himelmallick/BenchmarkMicrobiome)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=BenchmarkSingleCell&show_owner=true)](https://github.com/himelmallick/BenchmarkSingleCell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=IntegratedLearner&show_owner=true)](https://github.com/himelmallick/IntegratedLearner)
+
+
 
 <!-- Icons -->
 
