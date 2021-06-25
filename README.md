@@ -5,7 +5,7 @@
 
 My name is Himel Mallick. I am a computational biologist currently working at [Merck Research Laboratories](https://www.merck.com/). I am an extended [lab member](https://huttenhower.sph.harvard.edu/) of the [bioBakery software development team](https://github.com/biobakery) at the [Harvard Chan School](https://www.hsph.harvard.edu/) and the [Broad Institute](https://www.broadinstitute.org/). 
 
-As background, I am a Julia enthusiast, a Python explorer, and an R developer. Mostly, I develop computational methods and open-source software for the analysis of high-dimensional genomics data. 
+As background, I am a Julia enthusiast, a Python explorer, and an R developer. Mostly, I develop computational methods and open-source software for the analysis of high-dimensional genomics data with a particular emphasis on metagenomics and single-cell RNA-sequencing. 
 
 For more information, please visit my website at [himelmallick.org](http://himelmallick.org) and feel free to get in touch on [![Twitter][1.1]][1] or on [![LinkedIn][1.2]][2].
 
