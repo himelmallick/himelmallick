@@ -17,8 +17,7 @@ I am an occasional blog writer and you can find my blog articles on my website a
 
 ## &#x1f4c8; GitHub Stats
 
-[![Himel's GitHub stats](https://github-readme-stats.vercel.app/api?username=himelmallick)](https://github.com/himelmallick/github-readme-stats)
-
+![Himel's GitHub stats](https://github-readme-stats.vercel.app/api?username=himelmallick&show_icons=true&theme=radical&hide=prs)
 
 <!-- Icons -->
 
