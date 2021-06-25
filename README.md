@@ -13,6 +13,7 @@ For more information, please visit my website at [himelmallick.org](http://himel
 
 I am an occasional blog writer and you can find my blog articles on my website at [himelmallick.org](http://himelmallick.org/post). I am also engaged in publishing papers in peer-reviewed journals. A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=twbXG-wAAAAJ&hl=en).
 
+## &#x1f4c8; GitHub Stats
 
 ![Himel's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=himelmallick&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
