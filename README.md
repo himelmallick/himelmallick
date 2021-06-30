@@ -20,8 +20,8 @@ I am an occasional blog writer and you can find my blog articles on my website a
 ## Notable Software
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biobakery&repo=maaslin2&show_owner=true)](https://github.com/biobakery/maaslin2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biobakery&repo=melonnpan&show_owner=true)](https://github.com/biobakery/melonnpan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=tweedieverse&show_owner=true)](https://github.com/himelmallick/tweedieverse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biobakery&repo=melonnpan&show_owner=true)](https://github.com/biobakery/melonnpan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omicseye&repo=omeClust&show_owner=true)](https://github.com/omicseye/omeClust)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=BenchmarkMicrobiome&show_owner=true)](https://github.com/himelmallick/BenchmarkMicrobiome)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=IntegratedLearner&show_owner=true)](https://github.com/himelmallick/IntegratedLearner)
