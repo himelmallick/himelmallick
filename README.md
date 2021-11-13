@@ -3,9 +3,9 @@
 
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Himel Mallick. I am a computational biologist currently working at [Merck Research Laboratories](https://www.merck.com/). I am an extended [lab member](https://huttenhower.sph.harvard.edu/) of the [bioBakery software development team](https://github.com/biobakery) at the [Harvard Chan School](https://www.hsph.harvard.edu/) and the [Broad Institute](https://www.broadinstitute.org/). 
+My name is Himel Mallick. I am a computational biologist currently working at [Merck Research Laboratories](https://www.merck.com/). I develop computational methods to generate and validate testable hypotheses that accelerate data-driven discovery. Prior to MRL, I was a postdoctoral fellow of Computational Biology and Bioinformatics at Harvard and a PhD candidate of Biostatistics at UAB.
 
-As background, I am a Julia enthusiast, a Python explorer, and an R developer. Mostly, I develop computational methods and open-source software for the analysis of high-dimensional genomics data with a particular emphasis on microbiome multi-omics and multimodal single-cell RNA sequencing data. 
+As background, I am a Julia enthusiast, a Python explorer, and an R developer. Mostly, I develop computational methods and open-source software for the analysis of high-dimensional genomics data with a particular emphasis on microbiome multi-omics and multimodal single-cell RNA sequencing data. I am also an extended [lab member](https://huttenhower.sph.harvard.edu/) of the [bioBakery software development team](https://github.com/biobakery) at the [Harvard Chan School](https://www.hsph.harvard.edu/) and the [Broad Institute](https://www.broadinstitute.org/). 
 
 For more information, please visit my website at [himelmallick.org](http://himelmallick.org) and feel free to get in touch on [![Twitter][1.1]][1] or on [![LinkedIn][1.2]][2].
 
