@@ -1,7 +1,7 @@
 <!-- All credit to https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 for the awesome tutorial -->
 
 
-# Himel Mallick, PhD! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a computational biologist researching at [Merck Research Laboratories](https://www.merck.com/). I develop computational methods to generate and validate testable hypotheses that accelerate data-driven discovery. Prior to MRL, I was a postdoctoral fellow of Computational Biology and Bioinformatics at Harvard and a PhD candidate of Biostatistics at UAB.
 
