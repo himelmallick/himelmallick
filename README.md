@@ -7,7 +7,7 @@ Himel is a computational biologist researching at [Merck Research Laboratories](
 
 As background, Himel is a Julia enthusiast, a Python explorer, and an R developer. Mostly, he develops computational methods and open-source software for the analysis of high-dimensional genomics data with a particular emphasis on microbiome multi-omics and multimodal single-cell RNA sequencing data. Himel is also an extended [lab member](https://huttenhower.sph.harvard.edu/) of the [bioBakery software development team](https://github.com/biobakery) at the [Harvard Chan School](https://www.hsph.harvard.edu/) and the [Broad Institute](https://www.broadinstitute.org/). 
 
-He is a Fellow of the American Statistical Association (FASA) and a recipient of the [IISA Early-career Award in Statistics and Data Sciences](https://www.intindstat.org/statistical-awards) .
+He is a Fellow of the American Statistical Association (FASA) and a recipient of the [IISA Early Career Award in Statistics and Data Sciences](https://www.intindstat.org/statistical-awards) .
 
 For more information, please visit his website at [himelmallick.org](http://himelmallick.org) and feel free to get in touch on [![Twitter][1.1]][1] or on [![LinkedIn][1.2]][2].
 
