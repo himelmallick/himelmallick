@@ -3,7 +3,9 @@
 
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Himel is a tenure-track Principal Investigator researching at [Cornell University's](https://www.cornell.edu/) [Department of Population Health Sciences](https://weill.cornell.edu/units/population-health-sciences). He develops computational methods to generate and validate testable hypotheses that accelerate data-driven discovery. Prior to Cornell, Himel was an Associate Principal Scientist at Merck Research Laboratories, a postdoctoral fellow of Computational Biology and Bioinformatics at Harvard and a PhD candidate of Biostatistics at UAB.
+Himel is a tenure-track Principal Investigator researching at [Cornell University's](https://www.cornell.edu/) [Department of Population Health Sciences](https://weill.cornell.edu/units/population-health-sciences). He develops computational methods to generate and validate testable hypotheses that accelerate data-driven discovery. Prior to Cornell, Himel was an Associate Principal Scientist at Merck Research Laboratories and a postdoctoral fellow of Computational Biology and Bioinformatics at Harvard University.
+
+Himel earned my Ph.D. in Biostatistics from the University of Alabama at Birmingham (UAB) and holds a Bachelor of Science (B.Sc.) degree in Statistics from the University of Calcutta and a Master of Science (M.Sc.) degree in Statistics from the Indian Institute of Technology (IIT) Kanpur.
 
 As background, Himel is a Julia enthusiast, a Python explorer, and an R developer. Mostly, he develops computational methods and open-source software for the analysis of high-dimensional genomics data with a particular emphasis on microbiome multi-omics and multimodal single-cell RNA sequencing data. Himel is also an extended [lab member](https://huttenhower.sph.harvard.edu/) of the [bioBakery software development team](https://github.com/biobakery) at the [Harvard Chan School](https://www.hsph.harvard.edu/) and the [Broad Institute](https://www.broadinstitute.org/). 
 
