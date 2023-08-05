@@ -3,7 +3,7 @@
 
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Himel is a tenure-track Principal Investigator researching at [Cornell University's](https://www.cornell.edu/) [Department of Population Health Sciences](https://weill.cornell.edu/units/population-health-sciences). He develops computational methods to generate and validate testable hypotheses that accelerate data-driven discovery. Prior to Cornell, Himel was an Associate Principal Scientist at Merck Research Laboratories and a postdoctoral fellow of Computational Biology and Bioinformatics at Harvard University.
+Himel is a tenure-track Principal Investigator researching at [Cornell University's](https://www.cornell.edu/) [Department of Population Health Sciences](https://weill.cornell.edu/units/population-health-sciences). Himel is also an Adjunct Faculty of [Statistics and Data Science](https://stat.cornell.edu/) at Cornell's Ithaca campus. He develops computational methods to generate and validate testable hypotheses that accelerate data-driven discovery. Prior to Cornell, Himel was an Associate Principal Scientist at Merck Research Laboratories and a postdoctoral fellow of Computational Biology and Bioinformatics at Harvard University.
 
 Himel holds a Bachelor of Science (B.Sc.) degree in Statistics from the University of Calcutta and a Master of Science (M.Sc.) degree in Statistics from the Indian Institute of Technology (IIT) Kanpur. He earned his Ph.D. in Biostatistics from the University of Alabama at Birmingham (UAB).
 
