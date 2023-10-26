@@ -9,7 +9,7 @@ Himel holds a Bachelor of Science (B.Sc.) degree in Statistics from the Universi
 
 As background, Himel is a Julia enthusiast, a Python explorer, and an R developer. Mostly, he develops computational methods and open-source software for the analysis of high-dimensional omics and imaging modalities with a particular emphasis on spatial, temporal, and spatiotemporal multimodal data. Himel is also an extended [lab member](https://huttenhower.sph.harvard.edu/) of the [bioBakery software development team](https://github.com/biobakery) at the [Harvard Chan School](https://www.hsph.harvard.edu/) and the [Broad Institute](https://www.broadinstitute.org/). 
 
-He is a [Fellow of the American Statistical Association (FASA)](https://www.amstat.org/your-career/awards/asa-fellows) and a recipient of the [IISA Early Career Award in Statistics and Data Sciences](https://www.intindstat.org/statistical-awards) .
+A recipient of the 2022 [IISA Early Career Award in Statistics and Data Sciences](https://www.intindstat.org/statistical-awards), Himel is a [Fellow of the American Statistical Association (FASA)](https://www.amstat.org/your-career/awards/asa-fellows) and an [Elected Member of the International Statistical Institute](https://www.isi-web.org/isi-elected-membership). 
 
 For more information, please visit his website at [himelmallick.org](http://himelmallick.org) and feel free to get in touch on [![Twitter][1.1]][1] or on [![LinkedIn][1.2]][2].
 
