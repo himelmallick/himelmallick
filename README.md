@@ -26,9 +26,9 @@ I am an occasional blog writer and you can find my blog articles on my website a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biobakery&repo=maaslin2&show_owner=true)](https://github.com/biobakery/maaslin2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biobakery&repo=melonnpan&show_owner=true)](https://github.com/biobakery/melonnpan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=tweedieverse&show_owner=true)](https://github.com/himelmallick/tweedieverse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=tweedieverse&show_owner=true)](https://github.com/himelmallick/integratedLearner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=BayesRecipe&show_owner=true)](https://github.com/himelmallick/commingle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=tweedieverse&show_owner=true)](https://github.com/himelmallick/coracle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=integratedLearner&show_owner=true)](https://github.com/himelmallick/integratedLearner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=commingle&show_owner=true)](https://github.com/himelmallick/commingle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himelmallick&repo=coracle&show_owner=true)](https://github.com/himelmallick/coracle)
 
 
 
