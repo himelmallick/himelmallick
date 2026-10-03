@@ -3,9 +3,7 @@
 
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Himel is a tenure-track Principal Investigator researching at [Cornell University's](https://www.cornell.edu/) [Department of Population Health Sciences](https://weill.cornell.edu/units/population-health-sciences). Himel is also an Adjunct Faculty of [Statistics and Data Science](https://stat.cornell.edu/) at Cornell. He develops computational methods to generate and validate testable hypotheses that accelerate data-driven discovery. Prior to Cornell, Himel was an Associate Principal Scientist (Associate Director) at Merck Research Laboratories and a postdoctoral fellow of Computational Biology and Bioinformatics at Harvard University.
-
-Himel holds a Bachelor of Science (B.Sc.) degree in Statistics from the University of Calcutta and a Master of Science (M.Sc.) degree in Statistics from the Indian Institute of Technology (IIT) Kanpur. He earned his Ph.D. in Biostatistics from the University of Alabama at Birmingham (UAB).
+Himel is a tenure-track Principal Investigator in the [Department of Population Health Sciences](https://weill.cornell.edu/units/population-health-sciences) at [Cornell University](https://www.cornell.edu/), with secondary appointments in the [Division of Gastroenterology & Hepatology](https://medicine.weill.cornell.edu/divisions-programs/gastroenterology-hepatology) and the [Department of Statistics and Data Science](https://stat.cornell.edu/). He develops computational methods to generate and validate testable hypotheses that accelerate data-driven discovery. Before Cornell, Himel was an Associate Principal Scientist (Associate Director) at Merck Research Laboratories and a postdoctoral fellow in Computational Biology and Bioinformatics at Harvard University.
 
 As background, Himel is a Julia enthusiast, a Python explorer, and an R developer. Mostly, he develops computational methods and open-source software for the analysis of high-dimensional omics and imaging modalities with a particular emphasis on spatial, temporal, and spatiotemporal multimodal data. Himel is also an extended [lab member](https://huttenhower.sph.harvard.edu/) of the [bioBakery software development team](https://github.com/biobakery) at the [Harvard Chan School](https://www.hsph.harvard.edu/) and the [Broad Institute](https://www.broadinstitute.org/). 
 
@@ -15,7 +13,7 @@ For more information, please visit his website at [himelmallick.org](http://hime
 
 ## &#x270d; Blog & Writing
 
-I am an occasional blog writer and you can find my blog articles on my website at [himelmallick.org](http://himelmallick.org/post). I am also engaged in publishing papers in peer-reviewed journals. A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=twbXG-wAAAAJ&hl=en).
+I am an occasional blog writer, and you can find my blog articles on my website at [himelmallick.org](http://himelmallick.org/post). I am also engaged in publishing papers in peer-reviewed journals. A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=twbXG-wAAAAJ&hl=en).
 
 ## &#x1f4c8; GitHub Stats
 
